@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VpWJm02B1nxRCUKWTRmi5TjhSbcZQEHxWH4xlh+aWWU5LbCEnt8K4d2ahiNjCObRwoeuSYiFsbRoHv39knZAg==",
+  "dgSpecHash": "SwLsVUfOlItkraCEUivbLyW+MDTmOKc8x9oJ16WMrD95eK+3AlUBqf+01sf4g9pOVaUbZ07BpvpuiSO56a+c4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureAPI\\SecureAPI.csproj",
+  "projectFilePath": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureAPI\\SecureAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefv\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

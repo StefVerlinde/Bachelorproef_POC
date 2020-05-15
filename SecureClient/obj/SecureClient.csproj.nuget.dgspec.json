@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefv\\Documents\\School\\POC\\SecureClient\\SecureClient.csproj": {}
+    "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureClient\\SecureClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefv\\Documents\\School\\POC\\SecureClient\\SecureClient.csproj": {
+    "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureClient\\SecureClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureClient\\SecureClient.csproj",
+        "projectUniqueName": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureClient\\SecureClient.csproj",
         "projectName": "SecureClient",
-        "projectPath": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureClient\\SecureClient.csproj",
+        "projectPath": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureClient\\SecureClient.csproj",
         "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureClient\\obj\\",
+        "outputPath": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

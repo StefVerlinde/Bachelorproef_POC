@@ -3544,11 +3544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureAPI\\SecureAPI.csproj",
+      "projectUniqueName": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureAPI\\SecureAPI.csproj",
       "projectName": "SecureAPI",
-      "projectPath": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureAPI\\SecureAPI.csproj",
+      "projectPath": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureAPI\\SecureAPI.csproj",
       "packagesPath": "C:\\Users\\stefv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefv\\Documents\\School\\POC\\SecureAPI\\obj\\",
+      "outputPath": "C:\\Users\\stefv\\OneDrive\\Documenten\\School\\POC\\SecureAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
